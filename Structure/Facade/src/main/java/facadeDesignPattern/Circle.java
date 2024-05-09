@@ -1,3 +1,5 @@
+package facadeDesignPattern;
+
 /**
  * @version: v0.0.1
  * @author: Navishka
@@ -6,6 +8,6 @@
 public class Circle implements Shape{
     @Override
     public void draw() {
-        System.out.println("CIRCLE : Call Circle Method");
+        System.out.println("CIRCLE : Call facadeDesignPattern.Circle Method");
     }
 }

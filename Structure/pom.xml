@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Decorator</module>
+        <module>Facade</module>
     </modules>
 
     <properties>

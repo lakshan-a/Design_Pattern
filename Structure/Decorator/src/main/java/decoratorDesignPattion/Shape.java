@@ -5,5 +5,5 @@ package decoratorDesignPattion;
  * @author: lakshanR
  * @date: 5/9/2024
  */
-public interface Shap {
+public interface Shape {
 }
