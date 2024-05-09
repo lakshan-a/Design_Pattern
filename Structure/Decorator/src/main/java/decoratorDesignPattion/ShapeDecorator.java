@@ -5,5 +5,20 @@ package decoratorDesignPattion;
  * @author: lakshanR
  * @date: 5/9/2024
  */
-public class ShapeDecorator {
+
+
+public abstract class ShapeDecorator implements Shape {
+
+    protected Shape decoratorShape;
+
+
+    public ShapeDecorator(Shape decoratorShape){
+        this.decoratorShape=decoratorShape;
+    }
+
+    @Override
+    public void draw(){
+        decoratorShape.draw();
+    }
+
 }

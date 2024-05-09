@@ -6,4 +6,5 @@ package decoratorDesignPattion;
  * @date: 5/9/2024
  */
 public interface Shape {
+    void draw();
 }
