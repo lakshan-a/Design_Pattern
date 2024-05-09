@@ -14,6 +14,7 @@
         <module>Singlton</module>
         <module>Structure</module>
         <module>Facade</module>
+        <module>Behivior/Strategy</module>
     </modules>
 
     <properties>

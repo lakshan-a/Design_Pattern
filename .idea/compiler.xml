@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Decorator" />
         <module name="factory" />
-        <module name="Creational" />
+        <module name="Strategy" />
         <module name="Facade" />
       </profile>
     </annotationProcessing>

@@ -6,10 +6,11 @@
         <artifactId>Desing_Patterns</artifactId>
         <groupId>org.example</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Singlton</artifactId>
+    <artifactId>Strategy</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
