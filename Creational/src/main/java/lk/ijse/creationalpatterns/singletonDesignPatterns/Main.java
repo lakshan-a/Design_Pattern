@@ -1,4 +1,4 @@
-package lk.ijse.desingPatten;
+package lk.ijse.creationalpatterns.singletonDesignPatterns;
 
 /**
  * @version: v0.0.1
