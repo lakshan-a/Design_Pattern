@@ -5,9 +5,9 @@ package factoryDesingPatterns;
  * @author: lakshanR
  * @date: 5/9/2024
  */
-public class Circle implements Shape{
+public class Rectangle implements Shape{
     @Override
     public void draw() {
-        System.out.println("Circle");
+        System.out.println("Rectangle");
     }
 }
