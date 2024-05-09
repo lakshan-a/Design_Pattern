@@ -1,5 +1,3 @@
-package facadeDesignPattern;
-
 /**
  * @version: v0.0.1
  * @author: LakshanR
@@ -8,6 +6,6 @@ package facadeDesignPattern;
 public class Rectangle implements Shape{
     @Override
     public void draw() {
-        System.out.println("RECTANGLE : Call facadeDesignPattern.Rectangle Method");
+        System.out.println("RECTANGLE : Call Rectangle Method");
     }
 }

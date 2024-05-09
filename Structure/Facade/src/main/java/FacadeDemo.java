@@ -1,5 +1,3 @@
-package facadeDesignPattern;
-
 /**
  * @version: v0.0.1
  * @author: LakshanR
@@ -14,10 +12,10 @@ public class FacadeDemo {
 
         /*Complexity Code*/
 
-         /* facadeDesignPattern.Shape shape = new facadeDesignPattern.Circle();
+         /* Shape shape = new Circle();
 
           shape.draw();
-          facadeDesignPattern.Shape shape1 = new facadeDesignPattern.Circle();
+          Shape shape1 = new Circle();
           shape1.draw();*/
     }
 }
