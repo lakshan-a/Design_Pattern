@@ -2,7 +2,7 @@ package facadeDesignPattern;
 
 /**
  * @version: v0.0.1
- * @author: Navishka
+ * @author: LakshanR
  * @date: 5/9/2024
  */
 public class ShapeMaker {
