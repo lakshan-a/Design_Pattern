@@ -5,15 +5,16 @@ package observerdesignPatterns;
  * @author: lakshanR
  * @date: 5/9/2024
  */
-public class BinaryObserver extends Observer{
+public class HexaObserver extends Observer{
 
-    public  BinaryObserver(Subject subject){
+    public HexaObserver(Subject subject){
         this.subject=subject;
         this.subject.attach(this);
     }
 
+
     @Override
     public void updated() {
-        System.out.println("BINARY : " + subject.getState());
+        System.out.println("HEXA :" + Integer.toHexString(subject.getState()).toUpperCase());
     }
 }

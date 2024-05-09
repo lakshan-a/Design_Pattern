@@ -1,7 +1,5 @@
 package observerdesignPatterns;
 
-import javax.security.auth.Subject;
-
 /**
  * @version: v0.0.1
  * @author: lakshanR

@@ -10,6 +10,7 @@
         <module name="factory" />
         <module name="Strategy" />
         <module name="Facade" />
+        <module name="Observer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

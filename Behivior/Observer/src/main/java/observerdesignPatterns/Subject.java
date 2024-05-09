@@ -8,7 +8,7 @@ import java.util.List;
  * @author: lakshanR
  * @date: 5/9/2024
  */
-public class subject {
+public class Subject {
 
     private List<Observer> observers = new ArrayList<>();
 
