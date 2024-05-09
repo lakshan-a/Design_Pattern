@@ -1,4 +1,4 @@
-package lk.ijse.creationalpatterns.factoryDesingPatterns;
+package factoryDesingPatterns;
 
 /**
  * @version: v0.0.1
