@@ -10,11 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Creational</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>singlton</module>
-        <module>factory</module>
-    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
